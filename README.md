@@ -7,7 +7,7 @@
 
 # About This Project
 
-**lfr-facets-to-charts** is a collection of Widget Display Templates to convert Liferay's Search Facets to Charts.
+**lfr-facets-to-charts** is a collection of Widget Templates to convert Liferay's Search Facets to Charts.
 
 ![lfr-facets-to-charts][lfr-facets-to-charts-img]
 
@@ -20,8 +20,8 @@ These Widget Display Templates have been build using the following software:
 
 ## Prerequisites
 
-* These Widget Display Templates are compatible with **Liferay 7.3**
-* All the requiered libraries will be loaded in each Widget Display Template.
+* These Widget Templates are compatible with **Liferay 7.3**
+* All the requiered libraries will be loaded in each Widget Template.
 
 ## Configuration
 
